@@ -1,0 +1,11 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/Lab4.Commands/Lab4.Commands.csproj" />
+    <Project Path="src/Lab4.ConsoleApp/Lab4.ConsoleApp.csproj" />
+    <Project Path="src/Lab4.Core/Lab4.Core.csproj" />
+    <Project Path="src/Lab4.Local/Lab4.Local.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/Lab4.Tests/Lab4.Tests.csproj" />
+  </Folder>
+</Solution>
